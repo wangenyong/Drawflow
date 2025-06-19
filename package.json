@@ -1,6 +1,6 @@
 {
-  "name": "drawflow",
-  "version": "0.0.60",
+  "name": "drawflow-caravel",
+  "version": "0.0.1",
   "description": "Simple flow library",
   "main": "dist/drawflow.min.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jerosoler/Drawflow.git"
+    "url": "https://github.com/wangenyong/Drawflow.git"
   },
   "keywords": [
     "flow",
@@ -22,9 +22,9 @@
   "author": "Jero soler",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jerosoler/Drawflow/issues"
+    "url": "https://github.com/wangenyong/Drawflow/issues"
   },
-  "homepage": "https://github.com/jerosoler/Drawflow#readme",
+  "homepage": "https://github.com/wangenyong/Drawflow#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^8.1.0",
